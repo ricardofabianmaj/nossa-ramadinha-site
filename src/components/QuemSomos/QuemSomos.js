@@ -1,4 +1,4 @@
-import RamadinhaMainPicture from '../midia/image-ramadinha-melhor.jpg'
+import RamadinhaMainPicture from '../midia/image-ramadinha-melhor.png'
 
 function QuemSomos() {
   return (
